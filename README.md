@@ -38,3 +38,5 @@ and don't forget
 ```
 php artisan server
 ```
+
+Have a great day!!!
