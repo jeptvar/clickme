@@ -34,3 +34,7 @@ Finally run migrate
 ```
 php artisan migrate
 ```
+and don't forget
+```
+php artisan server
+```
